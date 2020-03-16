@@ -38,6 +38,6 @@ public class Main {
 
     private static String getMaxCharAmount() {
 
-        return "test";
+        return "tesfdfdft";
     }
 }
