@@ -19,13 +19,15 @@ public class Main {
     public static void main(String[] args) {
 
 
+        System.out.println("新");
+
         String values = null;
         //  values.split("(?<=\\G.{" + getMaxCharAmount() + "})");
 
 
         try {
             System.out.println(InetAddress.getLocalHost()
-                                       .getCanonicalHostName());
+                    .getCanonicalHostName());
         } catch (UnknownHostException e) {
             e.printStackTrace();
         }
