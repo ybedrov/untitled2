@@ -1,6 +1,6 @@
 public class one {
 
-    public void test(){
-
+    public void test() {
+        System.out.println("test");
     }
 }

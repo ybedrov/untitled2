@@ -19,8 +19,10 @@ public class Main {
     public static void main(String[] args) {
 
 
-        System.out.println("新");
+        System.out.println("nbnbnbnb");
 
+
+        //TODO:
         String values = null;
         //  values.split("(?<=\\G.{" + getMaxCharAmount() + "})");
 
@@ -33,7 +35,12 @@ public class Main {
         }
 
 
-        System.out.println("taskAhghg");
+        System.out.println("teststr1231212");
+        System.out.println("teststr");
+        System.out.println("teststr2121");
+        System.out.println("teststr1212");
+        System.out.println("teststr1212");
+        System.out.println("teststr");
 
 
     }
@@ -41,5 +48,9 @@ public class Main {
     private static String getMaxCharAmount() {
 
         return "tesfdfasasadft";
+    }
+
+    public void test() {
+        System.out.println("test");
     }
 }
