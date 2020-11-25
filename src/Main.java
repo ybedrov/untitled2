@@ -47,7 +47,7 @@ public class Main {
 
     private static String getMaxCharAmount() {
 
-        return "tesfdfasasadft";
+        return "tesfdfasasadftjhhghghg";
     }
 
     public void test() {
