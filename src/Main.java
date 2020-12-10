@@ -19,7 +19,7 @@ public class Main {
     public static void main(String[] args) {
 
 
-        System.out.println("nbnbnbdsdssdnb");
+        System.out.println("nbnbnbdsdssdbggfgfnb");
 
 
         //TODO:
@@ -34,6 +34,9 @@ public class Main {
             e.printStackTrace();
         }
 
+
+        if (values != null)
+            System.out.println("test");
 
         System.out.println("teststr1231212");
         System.out.println("teststr");
