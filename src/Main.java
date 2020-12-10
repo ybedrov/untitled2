@@ -38,6 +38,9 @@ public class Main {
         if (values != null)
             System.out.println("test");
 
+        if (values != null)
+            System.out.println("test");
+
         System.out.println("teststr1231212");
         System.out.println("teststr");
         System.out.println("teststr2121");
