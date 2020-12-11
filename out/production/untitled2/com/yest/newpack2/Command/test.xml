@@ -1,0 +1,29 @@
+<f:view
+        contentType="text/xml"
+        xmlns="http://www.w3.org/1999/xhtml"
+        xmlns:ui="http://xmlns.jcp.org/jsf/facelets"
+        xmlns:f="http://xmlns.jcp.org/jsf/core">
+
+    <fo:root
+            xmlns:fo="http://www.w3.org/1999/XSL/Format"
+            xmlns="http://www.w3.org/TR/xhtml1/DTD/xhtml-lat1.ent">
+        fo:layout-master-set
+        <fo:simple-page-master
+                master-name="AgendaPage"
+                page-width="297mm"
+                page-height="210mm"
+                margin-top="0mm"
+                margin-bottom="0mm"
+                margin-left="0mm"
+                margin-right="0mm">
+            <fo:region-body
+                    margin-top="10mm"
+                    margin-bottom="10mm"
+                    margin-left="5mm"
+                    margin-right="5mm" />
+            <fo:region-before extent="25mm" />
+            <fo:region-after extent="10mm" />
+        </fo:simple-page-master>
+    </fo:layout-master-set>
+</fo:root>
+        </f:view>

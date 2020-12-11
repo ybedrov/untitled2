@@ -1,0 +1,31 @@
+Index: src/Main.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/Main.java	(date 1550669734000)
++++ src/Main.java	(date 1551708745000)
+@@ -7,7 +7,7 @@
+         dsds.out.println("Hello World!");
+         System.out.println("Hello World!");
+         System.out.println("Hello World!");
+-        System.out.println("Hello World!");
++        System.out.println("Hello WoaArld!");
+         System.out.println("Hello World!");
+         System.out.println("Hello World!");
+         System.out.println("Hello World!");
+Index: src/one.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/one.java	(date 1550669734000)
++++ src/one.java	(date 1551708745000)
+@@ -2,5 +2,7 @@
+ 
+     public void test(){
+ 
++        System.out.println("tte");
++
+     }
+ }
