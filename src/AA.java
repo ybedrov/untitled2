@@ -1,3 +1,8 @@
+import java.util.AbstractSequentialList;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.stream.Collectors;
+
 /**
  * test is a
  */
@@ -9,12 +14,29 @@ public class AA {
      * @param zedint
      */
 
-    public void test(int zedint){
-        System.out.println("test");
+    boolean method(Object operand) {
+        if (operand instanceof List<?>) {
+            for (Object e: (List<?>)operand) {
+                // code
+            }
+            return true;
+        }
+        // ... rest of the method
+
+        return false;
     }
 
-    @PublicFinal
-    @ReturnString
+    public void test(int zedint){
+
+
+
+
+        ArrayList list;
+        list.stream().collect(Collectors.toMap())
+
+    }
+
+
     private   String test(){
 
         return "test";
