@@ -9,6 +9,9 @@ import java.util.stream.Collectors;
 
 public class AA {
 
+    public static void callMet(int i, String test, String help, int jer, int her) {
+    }
+
     /**
      * zed
      * @param zedint
@@ -26,13 +29,19 @@ public class AA {
         return false;
     }
 
+
+    /**
+     *
+     * @see <a href="http://google.com">http://google.com</a>
+     *
+     * @param zedint
+     */
     public void test(int zedint){
 
 
 
 
-        ArrayList list;
-        list.stream().collect(Collectors.toMap())
+
 
     }
 

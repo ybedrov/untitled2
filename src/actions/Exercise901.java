@@ -1,4 +1,4 @@
-package actions;
+packagenew actions;
 
 public class Exercise901 {
     /** field 1 */

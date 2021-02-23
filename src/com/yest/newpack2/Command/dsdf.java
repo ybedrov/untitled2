@@ -1,4 +1,4 @@
-package com.yest.newpack2.Command;
+packagenew com.yest.newpack2.Command;
 
 public class dsdf {
 

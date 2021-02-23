@@ -19,7 +19,26 @@ public class Main {
     public static void main(String[] args) {
 
 
+        int i =4;
+        String test;
+        String help;
+        int jer;
+        int her;
+
+        String value=System.getProperty("name");
+
+        System.out.println("Proprerty "+ value);
+
+        System.out.println("controlled");
+        System.out.println("flag");
+
+        System.out.println();
+
+        i++;
+        System.out.println("testt");
         System.out.println("nbnbnbdsdssdbggfgfnb");
+
+
 
 
         //TODO:
@@ -57,6 +76,19 @@ public class Main {
     }
 
     public void test() {
+        int i =4;
+        String test="test";
+        String help="help";
+        int jer=5;
+        int her=6;
+
+
+        AA aa = new AA();
+
+        AA.callMet(i,test,help,jer,her);
+
+
+
         System.out.println("test");
     }
 }

@@ -1,4 +1,4 @@
-package com.yest.newpack2.Command;
+packagenew com.yest.newpack2.Command;
 
 import javax.management.Query;
 
