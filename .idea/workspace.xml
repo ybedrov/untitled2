@@ -23,21 +23,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3b4540e-3533-4224-beb5-c5d78e0b9d67" name="taskB" comment="onesthree33">
-      <change afterPath="$PROJECT_DIR$/.idea/ant.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/jetbrains.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/actions/BaseC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions/BaseC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/actions/BaseC_tets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions/BaseC_tets.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/actions/Exercise901.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions/Exercise901.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/actions/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/yest/newpack2/Command/EmbedCategory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/yest/newpack2/Command/EmbedCategory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/yest/newpack2/Command/First.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/yest/newpack2/Command/First.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/yest/newpack2/Command/Onver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/yest/newpack2/Command/Onver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/yest/newpack2/Command/dsdf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/yest/newpack2/Command/dsdf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/yest/newpack2/Command/help.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/yest/newpack2/Command/help.java" afterDir="false" />
-    </list>
+    <list default="true" id="e3b4540e-3533-4224-beb5-c5d78e0b9d67" name="taskB" comment="onesthree33" />
     <list id="b510c103-576c-453c-8841-60b71502cb44" name="Default Changelist" comment="" />
     <list id="8780923b-db50-4477-a7d7-08f885fc4b29" name="newtask" comment="newtask" />
     <list id="5d46d52b-a22d-4d1e-b052-2d957ae85976" name="newtask2" comment="mine reter 3" />
@@ -272,6 +258,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="testreq#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/src/com/yest/newpack2/Command/testreq.http" runType="Run single request">
       <method v="2" />
     </configuration>
@@ -349,13 +346,6 @@
       <workItem from="1550575265228" duration="950000" />
       <workItem from="1550668511523" duration="333000" />
       <workItem from="1550669624784" duration="86000" />
-    </task>
-    <task id="LOCAL-00003" summary="xx">
-      <created>1550669695788</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1550669695788</updated>
     </task>
     <task id="LOCAL-00004" summary="newtask">
       <branch name="master" repository="$PROJECT_DIR$" original="true" />
@@ -822,6 +812,7 @@
       <workItem from="1617190742080" duration="2562000" />
       <workItem from="1617224142210" duration="629000" />
       <workItem from="1617613640652" duration="1227000" />
+      <workItem from="1617652601684" duration="142000" />
     </task>
     <task id="LOCAL-00031" summary="taskA">
       <created>1582891540142</created>
@@ -963,7 +954,21 @@
       <option name="project" value="LOCAL" />
       <updated>1614087405183</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="onesthree33">
+      <created>1617652651036</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1617652651036</updated>
+    </task>
+    <task id="LOCAL-00052" summary="onesthree33">
+      <created>1617652680905</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1617652680905</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TodoView">
@@ -1111,9 +1116,9 @@
     <MESSAGE value="njj" />
     <MESSAGE value="onestwo" />
     <MESSAGE value="onesthree" />
-    <MESSAGE value="onesthree33" />
     <MESSAGE value="d" />
-    <option name="LAST_COMMIT_MESSAGE" value="d" />
+    <MESSAGE value="onesthree33" />
+    <option name="LAST_COMMIT_MESSAGE" value="onesthree33" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
