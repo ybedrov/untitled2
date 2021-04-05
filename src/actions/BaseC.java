@@ -1,4 +1,4 @@
-packagenew actions;
+package actions;
 
 import javax.swing.*;
 
@@ -14,6 +14,8 @@ public class BaseC {
 
     public void test(){
         System.out.println("test");
+
+
     }
 }
 

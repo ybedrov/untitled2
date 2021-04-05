@@ -1,4 +1,4 @@
-packagenew actions;
+package actions;
 
 import javax.swing.*;
 
